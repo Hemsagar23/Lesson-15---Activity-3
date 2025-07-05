@@ -1,0 +1,26 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+.section-title {
+    font-size: 2rem;
+    color: #007bff;
+    margin-top: 20px;
+}
+
+.hobby-section {
+    background-color: #ffffff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.08);
+}
+
+footer {
+    background-color: #007bff;
+    color: #fff;
+    margin-top: 30px;
+    border-radius: 0;
+}
